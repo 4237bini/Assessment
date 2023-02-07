@@ -2,8 +2,8 @@
 Mobile Software Engineer Assessment
 
 Project: React
-Move to directory: cd record
-Run code: npm start
+- Move to directory: cd record
+- Run code: npm start
 
 
 Features:
